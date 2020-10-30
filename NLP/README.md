@@ -12,7 +12,7 @@
 ## Datasets
 | Dataset     | Intro                                                         |  Link                                                       | Paper |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| Ancient-Modern Chinese Dataset| -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | *Dayiheng Liu, Kexin Yang, Qian Qu, Jiancheng Lv*, **Ancient-Modern Chinese Translation with a New Large Training Dataset**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
+| Ancient-Modern Chinese Dataset| -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | **Ancient-Modern Chinese Translation with a New Large Training Dataset**, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
 | Chinese Sentence Making Corpus | -| - |-|
 
 ## Publications
