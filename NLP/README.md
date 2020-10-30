@@ -18,7 +18,7 @@
 
 - *Liao Chen, Zhichen Lai, Dayiheng Liu, Jiancheng Lv and Yongsheng Sang*, **Exploration on the Generation of Chinese Palindrome Poetry**, International Conference on Neural Information Processing. **ICONIP** 2020  
   
--. *Huishuang Tian, Kexin Yang, Dayiheng Liu, Jiancheng Lv*, **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) 
+- *Huishuang Tian, Kexin Yang, Dayiheng Liu, Jiancheng Lv*, **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) 
 
 - *Hang Zhang, Dayiheng Liu, Jiancheng Lv, Cheng Luo*, **Let's be Humorous: Knowledge Enhanced Humor Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2004.13317)  
  
