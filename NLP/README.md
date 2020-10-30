@@ -1,7 +1,7 @@
 # DILab-NLP
 [**Intro**](#introduction) |
-[**Datasets**](#datasets) |
 [**Systems & Demos**](#systems-demos) |
+[**Datasets**](#datasets) |
 [**Publications**](publications) |
 [**Members**](#members)
 
