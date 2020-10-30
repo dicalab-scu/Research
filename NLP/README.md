@@ -1,10 +1,10 @@
 # DILab-NLP
 [**Intro**](#introduction) |
-[**Systems & Demos**](#systems-demos) |
+[**Systems & Demos**](#systems-&-demos) |
 [**Datasets**](#datasets) |
 [**Publications**](publications) |
 [**Members**](#members) |
-[**Chinese**](./README.cn.md)
+[**Chinese（中文版）**](./README.cn.md)
 
 ## Introduction
 
