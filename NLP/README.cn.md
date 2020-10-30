@@ -13,8 +13,8 @@
 ## 开源数据集
 | Dataset     | Intro                                                         |  Download Link                                                       | Paper |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| Ancient-Modern Chinese Dataset| -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [[Link]](https://arxiv.org/abs/1808.03738) |
-| Chinese Sentence Making Corpus | -| - |-|
+| 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Link]](https://arxiv.org/abs/1808.03738) |
+| 中文造句语料集 | -| - |-|
 
 ## 已发表论文
 
