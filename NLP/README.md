@@ -28,7 +28,7 @@
 
 - *Dayiheng Liu, Jie Fu, Qian Qu, Jiancheng Lv*, **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**, IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 [[Paper]](https://arxiv.org/abs/1806.08097)
 
-- *Dayiheng Liu\*, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*, **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072)[[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
+- *Dayiheng Liu\*, Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*, **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072)[[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
 
 - *Dayiheng Liu, Kexin Yang, Qian Qu, Jiancheng Lv*, **Ancient-Modern Chinese Translation with a New Large Training Dataset**, ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738)[[Dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[Demo]](http://translation.dicalab.cn/ancient)
 
