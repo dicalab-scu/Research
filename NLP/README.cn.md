@@ -19,7 +19,7 @@
 ## 开源代码
 | 项目     | 简介                                                         |  代码链接                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| Mu-Forcing文本变分自编码器模型 | 针对文本变分自编码器这一文本生成模型，我们提出了一种有效的基于正则化的方法来解决文本变分自编码器的模型训练坍塌问题。该方法将隐变量后验概率进行额外约束，可以灵活、稳定地控制KL项与重构项之间的平衡。  | [Mu-Forcing-VRAE](https://github.com/dayihengliu/Mu-Forcing-VRAE) | µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072) |
+| Mu-Forcing文本变分自编码器模型 | 一种有效的基于正则化的方法来解决文本变分自编码器的模型训练坍塌问题。  | [Mu-Forcing-VRAE](https://github.com/dayihengliu/Mu-Forcing-VRAE) | µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072) |
 | 基于梯度搜索的文本推理填空算法 | -| - |-|
 
 ## 开源数据集
