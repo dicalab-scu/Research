@@ -10,11 +10,14 @@
 ## 数据智能实验室-文本智能组简介
 
 ## 展示系统 & Demo
+| 系统名     | 简介                                                         |  地址链接                                                       | 相关论文 |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 川小妹 | -| - |Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Link]]((https://arxiv.org/abs/1911.08212)|
 
 ## 开源代码
 
 ## 开源数据集
-| Dataset     | Intro                                                         |  Download Link                                                       | Paper |
+| 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Link]](https://arxiv.org/abs/1808.03738) |
 | 中文造句语料集 | -| - |-|
