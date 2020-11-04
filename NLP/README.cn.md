@@ -12,7 +12,7 @@
 ## 展示系统 & Demo
 | 系统名     | 简介                                                         |  地址链接                                                       | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 川小妹 | -| - |Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Link]]((https://arxiv.org/abs/1911.08212)|
+| 川小妹 | -| - |Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) |
 
 ## 开源代码
 
