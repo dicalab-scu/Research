@@ -4,7 +4,7 @@
 [**Datasets**](#datasets) |
 [**Publications**](publications) |
 [**Members**](#members) |
-[**Chinese（中文版）**](./README.cn.md)
+[**Chinese (中文版)**](./README.cn.md)
 
 ## Introduction
 
