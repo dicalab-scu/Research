@@ -12,14 +12,14 @@
 ## 展示系统 & Demo
 | 系统名     | 简介                                                         |  地址链接                                                       | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 川小妹 | -| - |Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) |
+| 川小妹 | -| - |Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information,**IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
 
 ## 开源代码
 
 ## 开源数据集
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Link]](https://arxiv.org/abs/1808.03738) |
+| 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
 | 中文造句语料集 | -| - |-|
 
 ## 已发表论文
