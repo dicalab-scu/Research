@@ -11,16 +11,24 @@
 
 ## 展示系统 & Demo
 | 系统名       | 简介                                                         |  地址链接                                                    | 相关论文 |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 川小妹 | -|![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/%E5%B7%9D%E5%B0%8F%E5%A6%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F.jpg)<br>请扫描上方微信二维码<br>打开川小妹微信小程序|Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
+| AI小翻 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 老中医 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 
 ## 开源代码
+| 项目     | 简介                                                         |  代码链接                                                      | 相关论文 |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Mu-Forcing文本变分自编码器模型 | -  | [Mu-Forcing-VRAE](https://github.com/dayihengliu/Mu-Forcing-VRAE) | µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072) |
+| 基于梯度搜索的文本推理填空算法 | -| - |-|
 
 ## 开源数据集
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
 | 中文造句语料集 | -| - |-|
+| 中文京东产品评论数据集 | - | - | - |
+| 古诗数据集 | -| - |-|
+| 对联数据集 | -| - |-|
 
 ## 已发表论文
 
