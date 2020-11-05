@@ -14,7 +14,7 @@
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 川小妹 | -|![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/%E5%B7%9D%E5%B0%8F%E5%A6%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F.jpg)<br>请扫描上方微信二维码<br>打开川小妹微信小程序|Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
 | AI小翻 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 老中医 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 老中医 | AI中医开方系统 | http://dicalab.cn:7777/logIn | -------- |
 
 ## 开源代码
 | 项目     | 简介                                                         |  代码链接                                                      | 相关论文 |
