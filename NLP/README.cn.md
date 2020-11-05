@@ -44,6 +44,8 @@
 
 - *Dayiheng Liu, Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*, **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**, Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1905.12304)[[Code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer)
 
+- *Chanjuan Li, Dayiheng Liu, Kexin Yang, Xiaoming Huang, Jiancheng Lv* , **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**, IEEE International Conference on Bioinformatics and Biomedicine. **BIBM-TICM** 2020
+
 - *Yusen Liu\*, Dayiheng Liu\*, Jiancheng Lv*, **Deep Poetry: A Chinese Classical Poetry Generation System**, Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212)[[Video]](https://youtu.be/jD1R_u9TA3M)
   
 - *Yusen Liu, Dayiheng Liu, Jiancheng Lv, Yongsheng Sang*, **Generating Chinese Poetry from Images via Concrete and Abstract Information**, International Joint Conference on Neural Networks. **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773)
