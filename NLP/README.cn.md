@@ -14,13 +14,16 @@
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 川小妹 | -|![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/%E5%B7%9D%E5%B0%8F%E5%A6%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F.jpg)<br>请扫描上方微信二维码<br>打开川小妹微信小程序|Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
 | AI小翻 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 老中医 | AI中医开方系统 | http://dicalab.cn:7777 | -------- |
+| 老中医 | AI中医开方系统 | [网页链接](http://dicalab.cn:7777) | -------- |
 
 ## 开源代码
 | 项目     | 简介                                                         |  代码链接                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | Mu-Forcing文本变分自编码器模型 | 基于正则化的方法来缓解文本变分自编码器的模型训练坍塌问题。  | [项目地址](https://github.com/dayihengliu/Mu-Forcing-VRAE) | µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072) |
-| 基于梯度搜索的文本推理填空算法 | 一种基于梯度搜索思想的迭代式文本填空推理算法，可用于主流单向生成模型完成填空任务。 | [项目地址](https://github.com/dayihengliu/Text-Infilling-Gradient-Search) | TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**, **ACL** 2019 [[Paper]](https://arxiv.org/abs/1905.10752) |
+| 基于梯度搜索的文本推理填空算法 | 一种基于梯度搜索思想的迭代式文本填空推理算法，可用于主流单向生成模型完成填空任务。 | [项目地址](https://github.com/dayihengliu/Text-Infilling-Gradient-Search) | TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search, **ACL** 2019 [[Paper]](https://arxiv.org/abs/1905.10752) |
+| 基于连续空间修改的文本属性控制算法 | 基于连续空间修改的文本属性控制算法，可以对多种文本细粒度属性进行控制，如情感，长度，关键词等 | [项目地址](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) | Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1905.12304) |
+| 先知网络 | 基于未来N元组预测的文本生成预训练语言模型| [项目地址](https://github.com/microsoft/ProphetNet) | ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training, **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2001.04063) |
+| 关键短语感知的多新闻标题生成算法 | 基于新闻中不同的关键词短语，生成多样化的新闻标题 | [项目地址](https://github.com/dayihengliu/KeyMultiHeadline) | Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation, **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2004.03875) |
 | 基于连续空间修改的文本属性控制算法 | 基于连续空间修改的文本属性控制算法，可以对多种文本细粒度属性进行控制，如情感，长度，关键词等 | [项目地址](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) | Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1905.12304) |
 
 ## 开源数据集
