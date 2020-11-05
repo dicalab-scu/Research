@@ -25,8 +25,9 @@
 ## 开源数据集
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 中文古文-现代文对齐语料集 | 984,611 / 48,980 / 50,000 | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
-| 中文造句语料集 | 2,445,164 | - |-|
+| 中文古文-现代文对齐语料集 | 包含训练集984,611 / 验证集48,980 / 测试集50,000 条对齐的古文现代文子句语料 | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) <br> An Automatic Evaluation Metric for Ancient-Modern Chinese Translation**, Neural Computing and Applications. **NCAA** 2020 <br> **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473)|
+| 中文造句语料集 | 包含2,445,164句以常用词汇、成语等词语进行造句的例句，每个词语包含多条例句 | [链接](https://drive.google.com/file/d/1z1bfMxil0mhI4TK7K0YQwjufwG_48anv/view?usp=sharing
+) | BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation, **TASLP** 2019 [[Paper]](https://arxiv.org/abs/1806.08097)|
 | 中文互联网商品用户评论数据集 | 586,538 | - | - |
 | 古诗数据集 | 232,670| - |-|
 | 对联数据集 | 774,491 | - | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
