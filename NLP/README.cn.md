@@ -24,7 +24,7 @@
 | 基于连续空间修改的文本属性控制算法 | 基于连续空间修改的文本属性控制算法，可以对多种文本细粒度属性进行控制，如情感，长度，关键词等 | [项目地址](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) | Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1905.12304) |
 | 先知网络 | 基于未来N元组预测的文本生成预训练语言模型| [项目地址](https://github.com/microsoft/ProphetNet) | ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training, **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2001.04063) |
 | 关键短语感知的多新闻标题生成算法 | 基于新闻中不同的关键词短语，生成多样化的新闻标题 | [项目地址](https://github.com/dayihengliu/KeyMultiHeadline) | Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation, **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2004.03875) |
-| 基于连续空间修改的问句数据增广 | 基于连续空间修改的问句数据增广算法，可以生成上下文相关的可回答问句和不可回答问句作为增广数据 | [项目地址](https://github.com/dayihengliu/CRQDA) | Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space, **EMNLP** 2020 |
+| 基于连续空间修改的问句数据增广 | 基于连续空间修改的问句数据增广算法，可以生成上下文相关的可回答问句和不可回答问句作为增广数据 | [项目地址](https://github.com/dayihengliu/CRQDA) | Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space, **EMNLP** 2020  [[Paper]](https://arxiv.org/abs/2010.01475)|
 
 ## 开源数据集
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
