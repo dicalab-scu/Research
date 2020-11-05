@@ -9,7 +9,11 @@
 ## Introduction
 
 ## Systems & Demos
-
+| Project       | Introduction                                                         |  Link                                                    | Relevant publications |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Chuanxiaomei | -|![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/%E5%B7%9D%E5%B0%8F%E5%A6%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F.jpg)<br>Please use Wechat to scan the QR code above to open the Chuanxiaomei APP|Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
+| AI xiaofan | ---------- | ![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/AI%E5%B0%8F%E7%BF%BB.jpg)<br>Please use Wechat to scan the QR code above to open the AI xiaofan APP| -------- |
+| Laozhongyi | An AI system generating Chinese medicine presripts | http://dicalab.cn:7777 | -------- |
 ## Datasets
 | Dataset     | Intro                                                         |  Download Link                                                       | Paper |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
