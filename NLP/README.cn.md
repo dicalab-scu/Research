@@ -34,17 +34,17 @@
 ## 已发表论文
 
 ### 2020
-- *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*, **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**, Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2010.01475)
+- *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan, Ming Zhou*, **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**, Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2010.01475)
 
 - *Dayiheng Liu, Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*, **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**, Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2004.03875)
 
 - *Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, Dayiheng Liu\*, Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*, **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**, Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2001.04063)[[Code]](https://github.com/microsoft/ProphetNet)[[Intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
  
-- *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*, **RikiNet: Reading Wikipedia Pages for Natural Question Answering**, Association for Computational Linguistics. **ACL** 2020 [[Paper]](https://arxiv.org/abs/2004.14560)  
+- *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Nan Duan*, **RikiNet: Reading Wikipedia Pages for Natural Question Answering**, Association for Computational Linguistics. **ACL** 2020 [[Paper]](https://arxiv.org/abs/2004.14560)  
 
 - *Dayiheng Liu, Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*, **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**, Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1905.12304)[[Code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer)
 
-- *Chanjuan Li, Dayiheng Liu, Kexin Yang, Xiaoming Huang, Jiancheng Lv* , **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**, IEEE International Conference on Bioinformatics and Biomedicine. **BIBM-TICM** 2020
+- *Chanjuan Li, Dayiheng Liu, Kexin Yang, Xiaoming Huang, Jiancheng Lv*, **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**, IEEE International Conference on Bioinformatics and Biomedicine. **BIBM-TICM** 2020
 
 - *Yusen Liu\*, Dayiheng Liu\*, Jiancheng Lv*, **Deep Poetry: A Chinese Classical Poetry Generation System**, Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212)[[Video]](https://youtu.be/jD1R_u9TA3M)
   
@@ -52,7 +52,7 @@
 
 - *Kexin Yang, Dayiheng Liu, Qian Qu, Jiancheng Lv, Yongsheng Sang*, **An Automatic Evaluation Metric for Ancient-Modern Chinese Translation**, Neural Computing and Applications. **NCAA** 2020
 
-- *Liao Chen, Zhichen Lai, Dayiheng Liu, Jiancheng Lv and Yongsheng Sang*, **Exploration on the Generation of Chinese Palindrome Poetry**, International Conference on Neural Information Processing. **ICONIP** 2020  
+- *Liao Chen, Zhichen Lai, Dayiheng Liu, Jiancheng Lv, Yongsheng Sang*, **Exploration on the Generation of Chinese Palindrome Poetry**, International Conference on Neural Information Processing. **ICONIP** 2020  
   
 - *Huishuang Tian, Kexin Yang, Dayiheng Liu, Jiancheng Lv*, **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) 
 
