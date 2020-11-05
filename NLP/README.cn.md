@@ -13,7 +13,7 @@
 | 系统名       | 简介                                                         |  地址链接                                                    | 相关论文 |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 川小妹 | -|![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/%E5%B7%9D%E5%B0%8F%E5%A6%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F.jpg)<br>请扫描上方微信二维码<br>打开川小妹微信小程序|Deep Poetry: A Chinese Classical Poetry Generation System, **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212) <br> Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
-| AI小翻 | ------------------------------------------------------------ |  ![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/AI%E5%B0%8F%E7%BF%BB.jpg)<br>请扫描上方微信二维码<br>打开AI小翻译微信小程序 | -------- |
+| AI小翻 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 老中医 | AI中医开方系统 | http://dicalab.cn:7777 | -------- |
 
 ## 开源代码
@@ -25,10 +25,10 @@
 ## 开源数据集
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
+| 中文古文-现代文对齐语料集 | 984,611 / 48,980 / 50,000 | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
 | 中文造句语料集 | 2,445,164 | - |-|
 | 中文互联网商品用户评论数据集 | 586,538 | - | - |
-| 古诗数据集 | -| - |-|
+| 古诗数据集 | 232,670| - |-|
 | 对联数据集 | 774,491 | - | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
 | 中文对话数据集 | 24W条左右 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |还在写...|
 | 医学问题生成预训练数据 | 106W条左右 经过清洗处理，可直接用于预训练医学问题生成模型 | [https://github.com/wulaoshi/Data-for-generating-medical-problems](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
