@@ -31,7 +31,7 @@
 | 古诗数据集 | -| - |-|
 | 对联数据集 | 774,491 | - | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
 | 中文对话数据集 | 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |还在写...|
-| 医学问题生成预训练数据 | 经过清洗处理，可直接用于预训练医学问题生成模型 | - |-|
+| 医学问题生成预训练数据 | 经过清洗处理，可直接用于预训练医学问题生成模型 | [https://github.com/wulaoshi/Data-for-generating-medical-problems](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
 
 ## 已发表论文
 
