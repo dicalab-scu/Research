@@ -26,10 +26,10 @@
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 中文古文-现代文对齐语料集 | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) |
-| 中文造句语料集 | -| - |-|
-| 中文京东产品评论数据集 | - | - | - |
+| 中文造句语料集 | 2,445,164 | - |-|
+| 中文互联网商品用户评论数据集 | 586,538 | - | - |
 | 古诗数据集 | -| - |-|
-| 对联数据集 | -| - |-|
+| 对联数据集 | 774,491 | - | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
 | 中文对话数据集 | 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |还在写...|
 | 医学问题生成预训练数据 | 经过清洗处理，可直接用于预训练医学问题生成模型 | - |-|
 
