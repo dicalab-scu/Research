@@ -30,6 +30,8 @@
 | 中文京东产品评论数据集 | - | - | - |
 | 古诗数据集 | -| - |-|
 | 对联数据集 | -| - |-|
+| 中文对话数据集 | 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |还在写...|
+| 医学问题生成预训练数据 | 用于预训练医学问题生成模型 | - |-|
 
 ## 已发表论文
 
