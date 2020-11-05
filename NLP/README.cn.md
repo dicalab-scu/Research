@@ -26,12 +26,13 @@
 | 数据集     | 简介                                                         |  下载地址                                                      | 相关论文 |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 中文古文-现代文对齐语料集 | 包含训练集984,611 / 验证集48,980 / 测试集50,000 条对齐的古文现代文子句语料 | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1808.03738) <br> An Automatic Evaluation Metric for Ancient-Modern Chinese Translation**, Neural Computing and Applications. **NCAA** 2020 <br> **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473)|
-| 中文造句语料集 | 包含2,445,164句以常用词汇、成语等词语进行造句的例句，每个词语包含多条例句 | [链接](https://drive.google.com/file/d/1z1bfMxil0mhI4TK7K0YQwjufwG_48anv/view?usp=sharing
-) | BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation, **TASLP** 2019 [[Paper]](https://arxiv.org/abs/1806.08097)|
-| 中文互联网商品用户评论数据集 | 586,538 | - | - |
-| 古诗数据集 | 232,670| - |-|
-| 对联数据集 | 774,491 | - | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
-| 中文对话数据集 | 24W条左右 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |还在写...|
+| 中文造句语料集 | 包含2,445,164句以常用词汇、成语等词语进行造句的例句，每个词语包含多条例句 | [下载地址](https://drive.google.com/file/d/1z1bfMxil0mhI4TK7K0YQwjufwG_48anv/view?usp=sharing) | BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation, **TASLP** 2019 [[Paper]](https://arxiv.org/abs/1806.08097)|
+| 中文互联网商品用户评论数据集 | 包含586,538条互联网商品的用户评论句子，涵盖消极情感到积极情感 | [下载地址](https://drive.google.com/file/d/1v01aGYMnhGdED-xBX9JVP-Ub5Nu_OyA-/view?usp=sharing
+) | µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, **TALLIP** 2019 [[Paper]](https://arxiv.org/abs/1905.10072)[[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE) |
+| 古诗数据集 | 包含232,670首五言或七言绝句数据 | [下载地址](https://drive.google.com/file/d/1YcP6B28KsOwacr7C_j1tcstkA-QtPd61/view?usp=sharing
+) |Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
+| 对联数据集 | 包含774,491条中文对联数据 | [下载地址](https://drive.google.com/file/d/1gBBlLrfj2QxrTft0zTGoBbCrwi3kuRqn/view?usp=sharing) | **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
+| 中文对话数据集 | 24W条左右 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [https://github.com/wulaoshi/dialogue_train_data](https://github.com/wulaoshi/dialogue_train_data) |-|
 | 医学问题生成预训练数据 | 106W条左右 经过清洗处理，可直接用于预训练医学问题生成模型 | [https://github.com/wulaoshi/Data-for-generating-medical-problems](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
 
 ## 已发表论文
