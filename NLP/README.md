@@ -1,6 +1,7 @@
 # DILab-NLP
 [**Intro**](#introduction) |
 [**Systems & Demos**](#systems-&-demos) |
+[**Code**](#code) |
 [**Datasets**](#datasets) |
 [**Publications**](publications) |
 [**Members**](#members) |
@@ -36,11 +37,6 @@
 | 中文对话数据集 | 24W条左右 基于知识库的对话系统，训练数据，已经初步处理，可以直接食用| [Download](https://github.com/wulaoshi/dialogue_train_data) |-|
 | 医学问题生成预训练数据 | 106W条左右 经过清洗处理，可直接用于预训练医学问题生成模型 | [Download](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
 
-## Datasets
-| Dataset     | Intro                                                         |  Download Link                                                       | Paper |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| | -  | [A2M (Ancient-Modern of Chinese)](https://github.com/dayihengliu/a2m_chineseNMT) | Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [[Link]](https://arxiv.org/abs/1808.03738) |
-| Chinese Sentence Making Corpus | -| - |-|
 
 ## Publications
 
