@@ -35,7 +35,7 @@
 | 古诗数据集 | 包含232,670首五言或七言绝句数据 | [下载地址](https://drive.google.com/file/d/1YcP6B28KsOwacr7C_j1tcstkA-QtPd61/view?usp=sharing) |Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
 | 对联数据集 | 包含774,491条中文对联数据 | [下载地址](https://drive.google.com/file/d/1gBBlLrfj2QxrTft0zTGoBbCrwi3kuRqn/view?usp=sharing) | AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation, **arXiv** 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
 | 中文对话数据集 | 24W条深度清洗的对话数据 ```{'history_utt': ['知道重庆森林这部电影吗？'], 'response': '知道呀，是一部由王家卫导演的片子', 'knowledge': '群众类型剧情', 'label': 0, 'mention': -100}```| [下载地址](https://github.com/wulaoshi/dialogue_train_data) |-|
-| 医学问题生成预训练数据 | 106W条左右 经过清洗处理，可直接用于预训练医学问题生成模型 | [下载地址](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
+| 医学问题生成预训练数据 | 106W条深度清洗的问题生成数据  ```{'id': 'CMD_0_0', 'text': '可能诱发早泄的因素，与多个方面都有一定的影响，常见的是患者自身的心里因素，在性生活时受到一些不良因素的影响，或者是夫妻感情不合，也可能是因为患者自身缺少性知识，常常手淫就会引起早泄，除了这两点，男性如果患上一些男科疾病也会诱发早泄，比如像前列腺炎、前列腺钙化等，或是骨盆骨折以及高血糖等，早泄对男性身心造成的创伤都是较大的，建议了解病因后正确预防。', 'label': '男孩早泄究竟是什么因素引发的？'}``` | [下载地址](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
 
 ## 已发表论文
 
