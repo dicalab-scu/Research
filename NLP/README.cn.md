@@ -35,7 +35,7 @@
 | 古诗数据集 | 包含232,670首五言或七言绝句数据 | [下载地址](https://drive.google.com/file/d/1YcP6B28KsOwacr7C_j1tcstkA-QtPd61/view?usp=sharing) |Generating Chinese Poetry from Images via Concrete and Abstract Information, **IJCNN** 2020 [[Paper]](https://arxiv.org/abs/2003.10773) <br> A Multi-Modal Chinese Poetry Generation Model, **IJCNN** 2018 [[Paper]](https://arxiv.org/abs/1806.09792v1) <br> Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, **TETCI** 2018 [[Paper]](https://ieeexplore.ieee.org/document/8482485) |
 | 对联数据集 | 包含774,491条中文对联数据 | [下载地址](https://drive.google.com/file/d/1gBBlLrfj2QxrTft0zTGoBbCrwi3kuRqn/view?usp=sharing) | AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation, **arXiv** 2020. [[Paper]](https://arxiv.org/abs/2009.11473) |
 | 中文对话数据集 | 24W条深度清洗的对话数据 eg:```{'history_utt': ['知道重庆森林这部电影吗？', '知道呀，是一部由王家卫导演的片子'], 'response': '而主演里更是有王菲，一上映便受到追捧', 'knowledge': '重庆森林主演王菲', 'label': 1, 'mention': '重庆森林'}```| [下载地址](https://github.com/wulaoshi/dialogue_train_data) |-|
-| 医学问题生成预训练数据 | 106W条深度清洗的问题生成数据  eg:```{'id': 'CMD_0_0', 'text': '可能诱发早泄的因素，与多个方面都有一定的影响，常见的是患者自身的心里因素，在性生活时受到一些不良因素的影响，或者是夫妻感情不合，也可能是因为患者自身缺少性知识，常常手淫就会引起早泄，除了这两点，男性如果患上一些男科疾病也会诱发早泄，比如像前列腺炎、前列腺钙化等，或是骨盆骨折以及高血糖等，早泄对男性身心造成的创伤都是较大的，建议了解病因后正确预防。', 'label': '男孩早泄究竟是什么因素引发的？'}``` | [下载地址](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
+| 医学问题生成预训练数据 | 106W条深度清洗的问题生成数据  eg:```{'id': 'MQNLI_0_1', 'text': '您好！咳嗽带血是肝癌肺转移主要症状之一，肝癌肺转移病症比较复杂治疗起来比较棘手，多数患者因肿瘤消耗严重身体虚弱免疫功能下降，建议接受中医中药进行治疗。中医中药治疗肝癌肺转移通过对病人情况进行仔细辨证，运用养阴清热、活血化瘀、益气生津、养肝护肝等方法，改善患者机体内部环境缓解咳血等不适症状增强免疫力，减轻患者痛苦，能达到提高生存质量延长生存期的目的。', 'label': '中医治疗肝癌晚期肺转移的优势是什么？'}``` | [下载地址](https://github.com/wulaoshi/Data-for-generating-medical-problems) |-|
 
 ## 已发表论文
 
