@@ -9,7 +9,9 @@
 
 ## 数据智能实验室-文本智能组简介
 
-文本智能组主要集中在
+文本智能组的研究主要集中在以下领域：
+
+![image](https://github.com/yangkexin/Research/blob/main/NLP/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%94%9F%E6%88%90.png)
 
 ## 展示系统 & Demo
 | 系统名       | 简介                                                         |  地址链接                                                    | 相关论文 |
