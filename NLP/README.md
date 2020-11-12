@@ -8,6 +8,8 @@
 [**Chinese (中文版)**](./README.cn.md)
 
 ## Introduction
+The DILab-NLP group focus on the following work:
+![image](https://github.com/GeorgeLan/Research/blob/main/NLP/images/NLP.jpg)
 
 ## Systems & Demos
 | Project       | Introduction                                                         |  Link                                                    | Relevant publications |
