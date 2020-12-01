@@ -1,3 +1,3 @@
 # Research
 ## Publications
-[Publications](https://github.com/dilab-scu/PublishedPapers) list of DILab. 
+[Selected Publications](https://github.com/dilab-scu/Research/tree/main/NLP#publications) list of DILab. 
