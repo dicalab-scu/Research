@@ -68,6 +68,8 @@
 
 - *Hang Zhang, Dayiheng Liu, Jiancheng Lv, Cheng Luo*, **Let's be Humorous: Knowledge Enhanced Humor Generation**, **arXiv** 2020. [[Paper]](https://arxiv.org/abs/2004.13317)  
  
+- *Mingfeng Xue, Hang Zhang, Jiancheng Lv*, **Key Factors of Email Subject Generation**, International Conference on Neural Information Processing. **ICONIP** 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_76) 
+
  ### 2019
  
 - *Dayiheng Liu, Jie Fu, Pengfei Liu, Jiancheng Lv*, **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**, Association for Computational Linguistics. **ACL** 2019 [[Paper]](https://arxiv.org/abs/1905.10752)[[Code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)
