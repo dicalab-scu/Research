@@ -65,6 +65,8 @@ The DILab-NLP group focus on the following work:
 - *Huishuang Tian, Kexin Yang, Dayiheng Liu, Jiancheng Lv*, **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2009.11473) 
 
 - *Hang Zhang, Dayiheng Liu, Jiancheng Lv, Cheng Luo*, **Let's be Humorous: Knowledge Enhanced Humor Generation**, arXiv 2020. [[Paper]](https://arxiv.org/abs/2004.13317)  
+
+- *Mingfeng Xue, Hang Zhang, Jiancheng Lv*, **Key Factors of Email Subject Generation**, International Conference on Neural Information Processing. **ICONIP** 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_76) 
  
  ### 2019
  
