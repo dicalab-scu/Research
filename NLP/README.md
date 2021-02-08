@@ -3,7 +3,7 @@
 [**Systems & Demos**](#systems-&-demos) |
 [**Code**](#code) |
 [**Datasets**](#datasets) |
-[**Publications**](publications) |
+[**Publications**](#publications) |
 [**Members**](#members) |
 [**Chinese (中文版)**](./README.cn.md)
 
