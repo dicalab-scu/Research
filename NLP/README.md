@@ -45,6 +45,8 @@ The DILab-NLP group focus on the following work:
 ### 2021
 - *Kexin Yang, Wenqiang Lei, Dayiheng Liu, Weizhen Qi and Jiancheng Lv*, **POS-constrained Parallel Decoding for Non-autoregressive Generation**, Association for Computational Linguistics. **ACL** 2021
 - *Hang Zhang, Yeyun Gong, Yelong Shen, Weisheng Li, Jiancheng Lv, Nan Duan, Weizhu Chen*, **Poolingformer: Long Document Modeling with Pooling Attention**, International Conference on Machine Learning. **ICML** 2021 [[Paper]](https://arxiv.org/abs/2105.04371)
+- *Huishuang Tian, Kexin Yang, Dayiheng Liu,Jiancheng Lv*, **AnchiBERT: A Pre-Trained Model for Ancient Chinese Language Understanding and Generation**, International Joint Conference on Neural Networks. **IJCNN** 2021 [[Paper]](https://arxiv.org/abs/2009.11473)
+
 ### 2020
 - *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*, **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**, Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://arxiv.org/abs/2010.01475)
 
